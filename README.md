@@ -25,6 +25,9 @@
 
 ### Скриншоты выполнения программы
 
-![MainActivity](https://github.com/annneskor/annneskor.github.io/blob/main/MainActivity.png)
 
-![MainActivity](https://github.com/annneskor/annneskor.github.io/blob/main/SecondActivity.png)
+![MainActivity](https://github.com/annneskor/labwork2/blob/main/MainActivity.png)
+![MainActivity](https://github.com/annneskor/labwork2/blob/main/SecondActivity.png)
+
+![MainActivity](https://github.com/annneskor/labwork2/blob/main/ThirdActivity.png)
+![MainActivity](https://github.com/annneskor/labwork2/blob/main/FourthActivity.png)
